@@ -34,4 +34,4 @@ Finally, hit the "Run" button on the top until you can view the average salary.
 
 You should see something like:
 
-[screen](/static/screenshot.png)
+![screen](/static/screenshot.png)
